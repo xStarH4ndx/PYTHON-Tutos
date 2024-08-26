@@ -1,0 +1,38 @@
+Chile,3
+Antofagasta,2
+Antofagasta,5000
+Calama,2000
+Coquimbo,1
+La Serena,20000
+Santiago,3
+Las Condes,15000
+Ñuñoa,10000
+Providencia,8000
+Argentina,2
+Buenos Aires,3
+Palermo,12000
+Recoleta,9000
+Belgrano,7000
+Córdoba,1
+Nueva Córdoba,11000
+Colombia,3
+Bogotá,2
+Chapinero,6000
+Usaquén,4000
+Medellín,2
+El Poblado,7000
+Laureles,5000
+Cartagena,1
+Centro,8000
+Mexico,4
+Ciudad de México,3
+Polanco,20000
+Coyoacán,15000
+Roma,18000
+Guadalajara,1
+Zapopan,12000
+Monterrey,2
+San Pedro,16000
+Santa Catarina,13000
+Cancún,1
+Zona Hotelera,25000
