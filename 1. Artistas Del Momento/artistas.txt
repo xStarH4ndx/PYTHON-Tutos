@@ -1,0 +1,42 @@
+Puerto Rico,3
+Bad Bunny,Spotify,52389123,Urbano
+Bad Bunny,AppleMusic,60839214,Urbano
+Álvaro Díaz,Spotify,6021985,Urbano
+Álvaro Díaz,AppleMusic,7204513,Urbano
+Arcangel,Spotify,28931423,Urbano
+Arcangel,AppleMusic,24791824,Urbano
+Chile,2
+Kid Voodo,Spotify,1938274,Alternativo
+Kid Voodo,AppleMusic,2120375,Alternativo
+Jordan23,Spotify,1324789,Urbano
+Jordan23,AppleMusic,1583725,Urbano
+Corea del Sur,2
+BTS,Spotify,73192845,Pop
+BTS,AppleMusic,68472934,Pop
+NewJeans,Spotify,37201423,Pop
+NewJeans,AppleMusic,30572834,Pop
+Estados Unidos,4
+Taylor Swift,Spotify,90128734,Pop
+Taylor Swift,AppleMusic,95467382,Pop
+Michael Jackson,Spotify,78902184,Pop
+Michael Jackson,AppleMusic,76394832,Pop
+Guns N' Roses,Spotify,41203475,Rock
+Guns N' Roses,AppleMusic,43192384,Rock
+Five Finger Death Punch,Spotify,13984745,Rock
+Five Finger Death Punch,AppleMusic,12193745,Rock
+Canada,2
+Drake,Spotify,98127341,Urbano
+Drake,AppleMusic,94503823,Urbano
+The Weeknd,Spotify,80349201,Pop
+The Weeknd,AppleMusic,81573928,Pop
+México,1
+Vicente Fernández,Spotify,26371892,Regional
+Vicente Fernández,AppleMusic,27539842,Regional
+Argentina,2
+Nicki Nicol,Spotify,3102845,Urbano
+Nicki Nicol,AppleMusic,3920145,Urbano
+Trueno,Spotify,14592834,Urbano
+Trueno,AppleMusic,15382714,Urbano
+Reino Unido,1
+Iron Maiden,Spotify,43981742,Rock
+Iron Maiden,AppleMusic,48129384,Rock
