@@ -1,0 +1,31 @@
+Li,Miyagi Do,Josh,Cobra Kai
+Karl,Shotokan,Ana,Cobra Kai
+Pier,Shotokan,Carlos,Miyagi Do
+Samantha,Miyagi Do,Brad,Shotokan
+Jaime,Shotokan,Miguel,Cobra Kai
+Ivan,Miyagi Do,Oscar,Shotokan
+Laura,Cobra Kai,Brian,Cobra Kai
+Esteban,Dragon,Maxi,Hito Do
+Claudia,Dragon,Rob,Miyagi Do
+Sergio,Miyagi Do,Ignacio,Cobra Kai
+Carla,Dragon,Jhon,Cobra Kai
+Ben,Hito Do,Elai,Cobra Kai
+Leo,Hito Do,Robert,Miyagi Do
+Mati,Dragon,Leandro,Cobra Kai
+Chia,Shotokan,Yan,Cobra Kai
+Sofia,Miyagi Do,Mirko,Shotokan
+Karl,Shotokan,Li,Miyagi Do
+Carlos,Miyagi Do,Samantha,Miyagi Do
+Miguel,Cobra Kai,Ivan,Miyagi Do
+Esteban,Dragon,Laura,Cobra Kai
+Rob,Miyagi Do,Ignacio,Cobra Kai
+Carla,Dragon,Ben,Hito Do
+Robert,Miyagi Do,Mati,Dragon
+Sofia,Miyagi Do,Chia,Shotokan
+Li,Miyagi Do,Carlos,Miyagi Do
+Miguel,Cobra Kai,Laura,Cobra Kai
+Carla,Dragon,Rob,Miyagi Do
+Chia,Shotokan,Robert,Miyagi Do
+Miguel,Cobra Kai,Li,Miyagi Do
+Rob,Miyagi Do,Chia,Shotokan
+Miguel,Cobra Kai,Rob,Miyagi Do

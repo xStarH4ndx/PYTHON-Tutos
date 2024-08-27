@@ -1,0 +1,400 @@
+786639483-0,comun,America Central,2.5
+697522632-6,raro,Africa,2.9
+318659508-8,muy raro,Europa,1.1,C
+734354499-3,raro,Europa,2.6
+789548215-7,reliquia,America del Norte,2.7,C
+385169455-4,reliquia,Europa,1.5
+817158134-X,poco comun,Africa,1.1
+368766837-1,muy raro,America Central,2.8
+568922906-7,poco comun,Europa,0.9,C
+308199337-7,reliquia,Africa,2.2
+711703246-4,comun,Europa,2.8
+538561949-3,reliquia,Africa,6
+665345580-7,muy raro,America del Sur,2.3
+300722484-5,reliquia,Europa,2.9,C
+884053001-0,reliquia,Europa,1.7,C
+030757622-1,comun,Africa,1.1
+936772333-4,reliquia,Africa,1.9
+317956962-X,muy raro,Europa,1.8,C
+504288615-X,poco comun,America Central,2.6
+521740310-1,reliquia,America del Norte,0.8
+884993535-8,poco comun,Africa,1
+412477239-4,reliquia,Europa,1.8
+867933517-7,muy raro,America Central,1,C
+668292090-3,raro,America Central,2.8,C
+439162192-4,reliquia,Africa,3
+723550018-2,poco comun,Europa,1
+828476486-5,reliquia,Africa,1.6
+270946232-X,reliquia,Europa,2.4
+553729762-0,comun,America del Sur,2.1,C
+245267696-9,muy raro,Africa,0.9,C
+146770102-5,comun,America del Norte,0.9
+034259751-5,comun,America del Sur,2.3
+692392351-4,reliquia,Europa,0.6,C
+393546222-0,reliquia,America del Sur,3
+080676444-9,raro,America Central,2
+326609067-5,reliquia,America del Norte,2.8
+208396335-0,reliquia,America Central,1,C
+123539437-9,reliquia,America del Norte,2.2
+041297151-8,muy raro,Europa,2.6,C
+579268368-9,reliquia,Africa,1.8
+740896870-9,reliquia,America del Norte,1.3
+417051623-0,poco comun,Africa,0.7
+540321281-7,comun,Europa,3
+584304908-6,raro,Europa,2
+024461889-5,raro,Europa,1.6
+579003195-1,comun,America del Norte,1.2,C
+085303145-2,reliquia,Europa,1.1
+190465847-4,comun,Europa,1.5
+732523984-X,poco comun,Africa,1.9
+663796264-3,raro,America del Norte,1.6
+259500231-7,raro,Europa,0.6
+228104792-X,poco comun,America del Norte,1.9
+538965137-5,poco comun,America Central,2
+447062921-9,reliquia,America del Sur,0.9,C
+617179863-0,raro,Africa,2
+935866103-8,poco comun,Africa,2.1
+738663812-4,raro,America Central,1.5,C
+572337171-1,reliquia,Europa,1
+589512995-1,poco comun,Africa,2.3
+267792686-5,comun,Europa,1.7
+077146302-2,muy raro,America del Norte,1.1
+346034316-8,raro,Europa,1.1
+368593470-8,raro,America del Norte,1.4
+206845638-9,raro,Europa,0.7
+684607000-1,comun,Europa,0.6
+799883921-X,comun,Europa,0.8,C
+191599749-6,raro,Africa,0.6
+836405631-X,comun,America del Norte,1.2
+379325983-8,reliquia,America del Norte,1.6,C
+581727553-8,poco comun,America del Norte,1.4
+880107215-5,muy raro,America del Sur,2,C
+818022278-0,muy raro,America Central,2.2
+792842756-7,raro,America Central,2
+622011962-2,reliquia,America del Norte,2.1
+463403501-4,comun,America Central,1.3
+177767691-6,reliquia,America del Sur,1.6
+348959559-9,raro,Europa,1.9,C
+623916346-5,poco comun,America Central,0.6
+367142049-9,muy raro,America del Norte,1.1
+666852242-4,reliquia,America del Sur,2.9,C
+442487010-3,raro,America Central,2
+871988183-5,muy raro,America Central,2.6,C
+467601172-5,raro,America Central,1.4,C
+131608046-3,raro,America del Sur,1.3
+396307042-0,reliquia,America Central,2.5
+846472064-5,muy raro,America del Sur,2.2
+125083091-5,reliquia,Africa,0.9
+666798221-9,muy raro,Africa,2.5
+084534796-9,comun,America del Sur,1.2
+775949636-2,reliquia,Europa,1.1
+718207535-0,muy raro,Europa,2.1
+879339161-7,poco comun,America del Sur,1.1
+567686795-7,reliquia,America del Norte,0.8
+837903952-1,muy raro,Europa,1.6
+866061031-8,reliquia,America Central,1.1
+474594985-5,muy raro,Africa,1.2,C
+476820112-1,reliquia,Europa,1.3,C
+554664660-8,muy raro,Africa,1.1
+734950171-4,comun,America del Norte,1.2
+565071354-5,comun,Europa,1.5,C
+068538269-9,poco comun,America del Sur,1.9
+077762025-1,raro,America del Sur,1.9
+612022129-8,muy raro,Africa,3
+545793882-4,reliquia,America del Norte,1.6
+444691150-3,reliquia,Africa,1.1
+066996092-6,poco comun,Europa,2
+431484702-6,raro,Africa,1
+975928668-8,reliquia,America del Norte,2.2
+514261314-7,comun,Africa,2.9
+531253369-6,reliquia,America del Sur,0.7
+540736558-8,muy raro,America del Sur,1.4,C
+269253119-1,muy raro,Europa,3
+402523902-7,reliquia,America del Norte,0.9,C
+240945295-7,raro,Europa,2.9
+771007433-2,comun,America del Sur,2.3
+154067364-2,reliquia,America Central,0.9
+046775297-4,comun,America del Norte,2.3
+319089079-X,muy raro,America Central,2
+221281606-5,reliquia,America del Sur,1.7
+644187134-3,poco comun,America del Norte,1.7
+978020982-4,raro,Europa,1.7
+449834723-4,comun,Africa,1.7,C
+282816047-5,comun,America del Norte,1.4
+403145423-6,reliquia,America Central,1.5
+414523843-5,poco comun,America del Norte,1.9,C
+830601729-3,raro,America del Norte,1.5
+324164859-1,raro,America del Sur,2.8
+641761346-1,raro,Europa,0.9
+085561145-6,reliquia,Africa,1.8
+546111604-3,reliquia,Europa,2.5
+742398976-2,reliquia,Africa,1.7,C
+754959781-2,comun,Europa,0.7
+931540781-4,reliquia,Europa,2.2
+872436440-1,poco comun,Europa,1.1
+589589919-6,reliquia,Africa,1
+059359829-6,raro,Europa,0.9
+144091933-X,reliquia,Africa,2.7
+104670521-0,raro,America del Sur,2
+775386853-5,comun,America Central,2.2,C
+962810301-6,muy raro,America del Norte,1.7
+704885140-6,poco comun,America Central,1.1
+232350404-5,muy raro,Africa,2.5
+951003700-1,muy raro,America del Sur,1.8
+344764643-8,reliquia,Africa,0.8
+121442468-6,reliquia,Africa,2.5,C
+290177003-7,muy raro,America del Sur,0.9
+299394010-4,comun,America del Norte,2,C
+565280871-3,reliquia,Africa,0.6,C
+599745386-3,comun,America del Sur,1.9
+631497540-9,reliquia,America del Norte,2.2,C
+823129894-0,reliquia,America Central,0.9
+078311203-3,raro,Africa,2.7
+816806555-7,reliquia,Africa,0.9,C
+322327049-3,raro,America del Sur,2.3
+281607174-X,comun,Europa,0.8
+986879875-2,reliquia,America del Sur,1.7
+432335714-1,reliquia,Africa,2.7
+404480992-5,comun,America Central,1.2
+093022359-4,muy raro,Africa,2
+265510728-4,comun,Africa,1.1
+925827981-6,reliquia,Africa,1.7
+936895517-4,muy raro,America Central,2.2
+318707023-X,comun,America del Sur,1.9
+877284574-0,comun,America del Norte,2.1,C
+357299312-1,reliquia,Africa,0.7
+343232824-9,raro,America del Norte,2.7
+433692554-2,reliquia,America del Norte,0.5
+955760647-9,raro,Europa,1
+267494602-4,comun,America del Norte,1.1,C
+058060778-X,reliquia,Africa,0.6
+469860349-8,muy raro,America del Norte,2.3
+611281409-9,comun,Africa,1.9
+521468624-2,comun,America del Norte,0.7
+613400818-4,reliquia,Africa,0.7
+325923166-8,raro,Africa,0.9,C
+419904616-X,reliquia,Africa,2.7
+480064985-4,reliquia,America del Sur,1.4
+203531810-6,raro,Europa,1.4
+754749496-X,poco comun,America del Norte,2.8
+286415605-9,comun,Europa,1.5
+147709657-4,reliquia,America del Sur,2.5
+948644475-7,reliquia,America del Sur,0.6
+087969014-3,reliquia,America del Norte,1.6
+981005909-4,reliquia,America Central,1.6,C
+921242812-6,muy raro,Africa,0.6
+574920619-X,comun,Africa,2.6
+679909702-6,raro,America del Sur,2.9
+483195602-3,comun,Africa,2.1,C
+522664996-7,comun,America del Sur,1
+420999855-9,raro,America del Norte,3
+382290935-1,comun,America Central,1
+516223259-9,muy raro,Africa,2.3
+362769087-7,poco comun,America del Norte,2.3
+984991484-X,reliquia,America Central,1.8,C
+784553871-X,reliquia,America Central,1.1,C
+449606063-9,poco comun,America del Norte,1.3
+777154820-2,muy raro,America del Norte,2.8,C
+036462420-5,raro,America Central,2
+372867124-X,reliquia,America del Norte,2.2,C
+225451118-1,reliquia,America Central,1.2
+775902292-1,comun,America Central,2.4
+401884703-3,muy raro,Africa,2.8
+306342701-2,muy raro,Africa,1.3
+374009232-7,raro,America del Norte,2.6
+249562415-4,raro,Africa,1.5
+110317459-2,comun,America del Sur,0.7,C
+325334655-2,raro,Africa,1.2
+757848143-6,muy raro,America del Norte,0.7,C
+205077706-X,poco comun,America del Norte,1.2,C
+342038013-5,reliquia,Africa,0.8
+529913661-7,muy raro,Europa,1
+482171791-3,raro,America Central,0.9
+363285211-1,muy raro,America del Sur,1
+586109839-5,comun,America del Sur,1.3
+740228955-9,reliquia,America del Sur,2.8,C
+305469626-X,muy raro,America del Norte,1.8
+381425126-1,reliquia,America del Sur,0.8,C
+131356374-9,comun,America Central,0.6
+578603950-1,reliquia,America Central,1.6
+748094841-7,poco comun,America del Sur,2.4
+517154673-8,raro,America del Sur,1.7,C
+137885182-X,reliquia,America del Norte,1.8
+471231542-3,poco comun,America del Sur,0.9,C
+253483647-1,comun,America del Norte,1.9,C
+262753429-7,muy raro,America del Norte,1.3
+674247241-3,reliquia,Africa,2.9
+954103030-0,raro,Africa,2.8,C
+741340183-5,comun,Europa,1.8
+253755978-9,muy raro,America del Sur,0.7
+071320286-6,comun,Europa,1.5,C
+642924762-7,raro,Europa,2.9
+861046916-6,reliquia,America del Norte,2.7,C
+223734867-7,raro,America del Sur,1.4
+732059622-9,muy raro,Africa,1.8,C
+618152983-7,reliquia,Europa,1.5,C
+885429251-6,poco comun,Africa,0.6
+749964716-1,poco comun,America del Norte,2.1
+377404689-1,poco comun,Europa,2.7,C
+332076102-1,comun,Africa,0.9
+974128689-9,comun,America Central,2.4,C
+336161691-3,comun,America del Norte,2.9
+515986623-X,comun,Africa,0.7
+498233293-2,raro,Africa,2.1
+536183001-1,comun,America del Sur,2.2
+647528314-2,raro,America del Norte,2.7,C
+563505537-0,reliquia,America del Sur,1.5,C
+443449243-8,comun,America del Norte,0.7
+526037256-5,raro,Europa,0.8
+492746191-2,poco comun,America Central,0.9,C
+493715663-2,muy raro,America del Norte,1.2
+874926631-4,reliquia,America del Norte,1.1
+402975539-9,comun,America del Sur,1.6
+755623071-6,comun,America del Sur,2.5
+018173840-6,comun,Europa,2.3
+695534629-6,muy raro,Europa,2.5
+230850035-2,muy raro,America Central,1.3
+743283079-7,reliquia,America del Norte,1.9
+039954361-9,reliquia,America del Sur,1.5,C
+115796286-6,reliquia,Africa,2.3
+122978993-6,reliquia,America del Norte,2.2
+112742871-3,reliquia,America del Norte,2.7
+868498625-3,raro,America del Sur,2.6
+640264649-0,comun,America Central,0.5
+136761095-8,reliquia,Africa,2.8
+262294229-X,muy raro,Africa,1.1
+640310405-5,comun,America del Norte,2.6
+955595997-8,reliquia,America del Norte,0.7,C
+608683439-3,reliquia,America del Sur,1.1
+724349277-0,reliquia,America del Norte,1.5
+521012458-4,comun,America del Sur,2.5
+450659115-1,reliquia,Africa,2.4
+713478448-7,comun,Africa,1.9,C
+526373949-4,comun,America del Norte,1.2
+502165501-9,poco comun,America del Sur,2.5
+247996699-2,reliquia,Africa,2.7
+774510864-0,comun,America del Norte,2.9
+776682346-2,comun,America Central,1.3
+866117232-2,raro,Africa,1.1
+158177064-2,comun,America Central,2
+241629241-2,muy raro,America del Norte,1.2,C
+663316487-4,reliquia,America Central,2.5
+867992349-4,reliquia,America Central,2.1
+192865091-0,raro,Africa,2.4
+817372425-3,reliquia,America del Sur,1.1,C
+111100055-7,comun,America Central,0.9
+703772625-7,comun,Europa,2.5
+429613960-6,reliquia,America del Norte,1
+078309052-8,raro,Europa,2.8
+426240443-9,raro,America Central,1.7,C
+547521845-5,muy raro,Europa,0.8
+922465875-X,comun,Africa,1.9
+895613357-3,raro,America del Norte,2.5
+954165256-5,raro,America Central,2.3
+443291928-0,raro,America del Sur,0.7
+729547284-3,reliquia,Europa,0.9
+816407866-2,reliquia,America del Norte,3
+808818821-0,reliquia,America del Norte,1.4
+465063388-5,reliquia,America Central,0.6
+484160517-7,reliquia,Europa,2.4
+114479455-2,muy raro,America Central,2.7
+589562253-4,reliquia,America del Sur,2.3,C
+327588282-1,raro,Europa,2.5
+609112302-5,comun,America Central,2.3,C
+415441910-2,reliquia,America del Norte,2.1
+047403821-1,comun,Europa,2.6,C
+760337152-X,raro,America del Sur,0.7
+263750331-9,comun,America Central,2.1
+994712273-5,poco comun,Africa,1.2,C
+621829605-9,poco comun,Africa,1.9
+912980003-X,poco comun,America del Sur,0.7,C
+117647295-X,comun,America del Norte,1.7
+130339586-X,comun,America del Sur,1
+079336659-3,comun,America Central,1.7
+452284141-8,raro,America Central,2.1
+402249151-5,comun,Africa,2.9,C
+793130331-8,raro,America Central,1
+314215894-4,comun,Europa,2.1
+101879616-9,raro,America Central,2.5
+673704816-1,muy raro,America del Norte,1.8
+490345749-4,reliquia,America Central,0.5,C
+314780399-6,reliquia,America del Sur,1.6
+266607640-7,poco comun,Europa,1.6
+314569144-9,muy raro,America Central,1.2,C
+208662615-0,poco comun,America del Sur,0.5
+014248984-0,reliquia,America Central,2.2
+927404705-3,muy raro,America del Sur,2.6
+535023984-8,muy raro,America del Norte,1.5
+305261692-7,poco comun,Africa,2.8
+901893473-9,poco comun,Europa,2.6
+320436637-5,reliquia,Africa,1.8
+657342613-4,comun,America del Norte,1.9
+957740320-4,reliquia,America del Sur,1.7
+296922429-1,raro,America del Sur,0.8
+951318075-1,poco comun,Europa,0.9,C
+392963597-6,comun,Africa,1.5
+206780255-0,comun,America del Norte,1.6
+638335384-5,reliquia,America Central,2
+826782086-8,raro,America del Norte,0.7
+299208780-7,reliquia,America Central,0.7
+399731974-X,raro,America Central,1
+303205382-X,reliquia,America del Norte,2.4
+272554604-4,raro,America Central,1.5
+463831426-0,raro,America del Sur,1.8
+064084803-6,raro,Europa,2.5,C
+779345510-X,reliquia,Europa,2.5
+630736873-X,poco comun,America Central,2.3,C
+027599423-6,reliquia,America del Sur,1.9
+247369836-8,reliquia,Europa,2.7
+447579246-0,raro,America del Norte,2.5
+482273430-7,muy raro,Europa,1.6,C
+069475060-3,comun,Europa,0.8
+282968050-2,comun,America Central,0.8
+338051217-6,reliquia,America del Norte,1
+501401441-0,reliquia,Europa,1.8
+633854637-0,reliquia,America Central,1.4
+541270378-X,comun,America del Sur,2.8
+844696243-8,comun,Africa,3
+647704049-2,reliquia,America del Norte,2.4
+008875993-8,muy raro,America del Norte,0.8
+423978225-2,raro,America del Norte,3,C
+778399961-1,raro,America Central,1.3
+662150530-2,comun,America del Sur,2.6
+246458932-2,raro,America Central,1.1,C
+731603386-X,reliquia,Africa,3
+595237435-2,muy raro,America Central,0.8
+405478390-2,comun,America Central,2.5,C
+727452679-0,poco comun,Africa,2.4,C
+160194418-7,reliquia,America del Norte,0.5
+827182535-6,reliquia,America del Norte,1.9
+655667663-2,reliquia,America del Sur,1.1
+969987563-1,poco comun,America del Norte,2.8
+831833867-7,poco comun,America del Sur,2
+454098717-8,muy raro,America Central,2.7
+860946329-X,reliquia,America del Sur,1.8
+521843840-5,reliquia,Africa,2.7
+622709862-0,muy raro,America del Norte,2.1
+848161391-6,poco comun,Europa,2
+698411053-X,reliquia,Europa,1.6,C
+371656424-9,poco comun,America Central,1.9
+564364626-9,poco comun,Europa,2.2
+122288340-6,reliquia,America Central,2.8
+179404389-6,reliquia,America del Norte,1.4
+630420714-X,muy raro,Africa,2.2
+855013581-X,comun,America Central,2.1
+206085313-3,poco comun,America del Norte,2.6
+788097023-1,raro,America Central,1.5
+225870871-0,poco comun,America del Sur,2.8,C
+728588630-0,reliquia,America Central,1.5
+252537856-3,muy raro,America del Norte,1.8,C
+662461560-5,reliquia,Africa,0.9,C
+797508113-2,comun,America del Sur,2.9
+103498312-1,reliquia,Africa,0.8
+589640044-6,reliquia,America Central,0.9
+317762172-1,muy raro,Africa,2.9
+843023473-X,reliquia,America del Norte,1.8,C
+123190307-4,raro,Africa,1.6,C
+762796544-6,comun,America del Norte,1.6
+721969834-8,muy raro,America del Norte,0.9
+554733830-3,raro,Africa,1.6
+688719474-0,reliquia,Africa,2.2
