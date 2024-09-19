@@ -1,0 +1,33 @@
+coquimbo unido,la serena,10-05-2021
+local,3
+visita,10
+local,25
+local,40
+visita,55
+visita,78
+local,80
+local,93
+amarilla,local,luis rojas,30
+roja,visita,pablo bonilla,45
+amarilla,local,luis rojas,70
+cobresal,u de chile,10-05-201
+local,9
+visita,43
+visita,58
+amarilla,visita,jaime frei,57
+colo colo,u concepcion,11-05-2021
+local,70
+roja,visita,emilio tevez,60
+amarilla,local,emilio rojas,75
+colo colo,coquimbo unido,20-05-2021
+visita,75
+visita,90
+roja,local,raul feire,60
+amarilla,visita,luis rojas,70
+amarilla,local,emilio rojas,58
+la serena,cobresal,20-05-2021
+local,45
+visita,75
+u de chile,u concepcion,20-05-2021
+roja,visita,raul medina,55
+roja,visita,emilio tevez,80

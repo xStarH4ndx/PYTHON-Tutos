@@ -1,0 +1,48 @@
+La Serena-H&M-868
+Coquimbo-H&M-230
+Iquique-Hites-825
+Antofagasta-La Polar-73
+La Serena-Ripley-173
+Santiago-Falabella-1448
+Coquimbo-Paris-256
+Coquimbo-Hites-745
+Antofagasta-H&M-864
+Concepción-Hites-74
+Antofagasta-Ripley-1394
+Santiago-La Polar-353
+Valparaiso-H&M-580
+La Serena-Falabella-370
+Coquimbo-Ripley-1043
+Santiago-Hites-1424
+Iquique-Ripley-814
+Talca-La Polar-169
+Iquique-H&M-268
+Valparaiso-Ripley-536
+Valparaiso-Hites-796
+Concepción-Falabella-353
+Concepción-La Polar-685
+Santiago-H&M-791
+Talca-Paris-21
+La Serena-Hites-297
+Antofagasta-Hites-774
+Coquimbo-Falabella-626
+Talca-Falabella-1640
+La Serena-La Polar-154
+Valparaiso-La Polar-363
+Valparaiso-Falabella-0
+Concepción-H&M-725
+Talca-Ripley-87
+Talca-Hites-243
+Antofagasta-Falabella-326
+Iquique-Paris-62
+Antofagasta-Paris-976
+Iquique-Falabella-232
+Iquique-La Polar-410
+Concepción-Paris-676
+La Serena-Paris-592
+Santiago-Ripley-283
+Valparaiso-Paris-129
+Talca-H&M-955
+Coquimbo-La Polar-1304
+Santiago-Paris-235
+Concepción-Ripley-381

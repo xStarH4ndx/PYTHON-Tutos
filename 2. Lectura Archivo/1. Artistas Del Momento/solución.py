@@ -12,6 +12,7 @@ EL TXT CONTIENE:
     Lugar de Nacimiento
 '''
 
+
 #VARIABLES PRINCIPALES
 mayorGlobal=-1
 mayorGlobalNombre=""
